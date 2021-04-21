@@ -2,7 +2,7 @@
 Just another respository
 
 My name is Aneta
-Test one - (the guide tutorial)
+Test one - (The guide tutorial)
 
 Test two - GitHubDesktop
 
